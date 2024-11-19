@@ -9,8 +9,10 @@ to be clickable, fillable, or readable to account for page loading times. It's d
 testing the registration process more efficient and repeatable. Written by Richard "RogueFlotilla" 
 Flores, Cybersecurity Research Assistant, Marymount University, Arlington, VA.
 """
+
 # Make sure Firefox and the Selenium WebDriver are installed
 # Python code to install WebDriver
+
 '''
 try:
     # Run the pip install command for webdriver-manager
@@ -20,10 +22,8 @@ except subprocess.CalledProcessError as e:
     print(f"An error occurred while installing webdriver-manager: {e}")
 '''
 
-# Powershell code to install WebDriver
-'''
-pip install webdriver-manager
-'''
+# # Powershell code to install WebDriver
+# pip install webdriver-manager
 
 from datetime import datetime
 from selenium import webdriver
