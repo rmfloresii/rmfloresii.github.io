@@ -1,3 +1,5 @@
+# Selenium Code to Test Freelancer.com Account Sign Up
+
 """
 This Python script automates the process of testing Freelancer's sign-up workflow using Selenium 
 WebDriver. It covers everything from opening the homepage to completing account setup, simulating 
